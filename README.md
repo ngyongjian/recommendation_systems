@@ -11,5 +11,5 @@ In the rapidly evolving domain of recommender systems, a variety of algorithms h
 
 ## Algorithms
 - Content-based: K-Nearest Neighbors (KNN)
-- Collaborative Filtering: Matrix Factorization
+- Collaborative Filtering: Matrix Factorization (MF)
 - Hybrid: Deep Neural Networks (DNN)
